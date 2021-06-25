@@ -27,11 +27,9 @@
         </dependency>
 
         <dependency>
-            <groupId>com.p8.rewardCentral</groupId>
+            <groupId>P8_rewardCentral</groupId>
             <artifactId>rewardCentral</artifactId>
             <version>1.0</version>
-            <scope>system</scope>
-            <systemPath>${basedir}/libs/RewardCentral.jar</systemPath>
         </dependency>
 
         <dependency>
